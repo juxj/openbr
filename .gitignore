@@ -12,6 +12,13 @@ data/LFW
 build*
 scripts/results
 share/openbr/models
+scripts/set*
+scripts/set00
+scripts/set01
+scripts/set02
+scripts/set03
+scripts/set04
+scripts/set05
 
 ### Generic ###
 *.log
